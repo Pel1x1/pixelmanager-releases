@@ -168,7 +168,7 @@ PixelManager работает только **на чтение**: он копи�
 
 Приложение предоставляется по подписке, доступ активируется на устройство.
 
-- Telegram: @k_k0stya
+- Telegram: [@pixellabvpn_support](https://t.me/pixellabvpn_support)
 - Email: k.konstantin2212@gmail.com
 
 Нашли ошибку или хотите новую функцию — [заведите issue](https://github.com/Pel1x1/pixelmanager-releases/issues),
